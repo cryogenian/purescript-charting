@@ -1,0 +1,10 @@
+/node_modules/
+/bower_components/
+/tmp/
+/dist/
+/output/
+/coverage/
+public/*.js
+.psci_modules
+.psci
+index.js
